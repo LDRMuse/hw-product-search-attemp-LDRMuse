@@ -1,9 +1,9 @@
 import React from 'react';
 import './App.css';
-import {FilterableProductTable} from './components'
+import {SearchBar} from './FilterableProductTable'
 
 export const App = () => {
   return (
-    <FilterableProductTable />
+    <SearchBar />
   );
 }
