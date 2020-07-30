@@ -1,1 +1,3 @@
-export {FilterableProductTable as Table} from './FilterableProductTable'
+import React from 'react'
+
+export {FilterableProductTable} from './FilterableProductTable'
